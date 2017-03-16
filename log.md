@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log
 
+### Day 6: March 11, Saturday
+
+**Today's Progress**: Created a simple coffee mug.
+
+**Thoughts:** Making waves using CSS is a pain in the... mind :) Made a work-around using border-radius.
+
+**Link to work:** [Coffee Mug](http://codepen.io/zaidoxxx/full/RpVaKp/)
+
+
+### Day 5: March 10, Friday
+
+**Today's Progress**: During work, I just successfuly uploaded multiple files from JS to PHP and procceed to dynamically list the uploaded files by Date. I also upgraded WP version on 2 client sites. At night, I created simple journal notebook using only HTML and CSS.
+
+**Thoughts:** Finally, I never thought uploading files from JS to PHP is that easy. :)
+
+**Link to work:** [Notebook](http://codepen.io/zaidoxxx/full/wJdjJG/)
+
+
+### Day 4: March 9, Thursday
+
+**Today's Progress**: Research on how to upload files using Vuejs/Javascript AJAX for my Online Memo Archive. Another thing I did is for a different LMS project. Created a child theme and enable PayPal and Stripe payment gateways.
+
+**Thoughts:** I had a hard time finding a way to successfully upload files from JS to PHP.
+
+
 ### Day 3: March 8, Wednesday
 
 **Today's Progress**: Created a simple donut using CSS. At work, I fixed bug on one of our client's website (NDA). Start working on the online memo archive using Laravel-Vuejs.
