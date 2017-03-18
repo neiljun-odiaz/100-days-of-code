@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 7: March 11, Sunday
+
+**Today's Progress**: Created a regular pokeball.
+
+**Thoughts:** Today, I started to add some basic animations.
+
+**Link to work:** [Pokeball](http://codepen.io/zaidoxxx/full/BWRXEQ/)
+
+
 ### Day 6: March 11, Saturday
 
 **Today's Progress**: Created a simple coffee mug.
