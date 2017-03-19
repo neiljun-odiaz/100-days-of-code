@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 7: March 11, Sunday
+### Day 8: March 13, Monday
+
+**Today's Progress**: Implemented the delete function for the Memo Archive web app. Checked issue found on one of the client's e-commerce.
+
+**Thoughts:** Webpack is so cool!
+
+**Link to work:** (NDA)
+
+### Day 7: March 12, Sunday
 
 **Today's Progress**: Created a regular pokeball.
 
