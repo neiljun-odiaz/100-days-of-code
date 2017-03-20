@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 9: March 14, Tuesday
+
+**Today's Progress**: Move memo upload feature to a blade template instead of a Vue component; Created Birthday celebrants page component. Convert company's site from static HTML to a PHP so there will be no repeatitions on some section(header, footer); Created a CSS version of Beemo from Adventure Time.
+
+**Thoughts:** Day's kinda productive.
+
+**Link to work:** (NDA)
+
+
 ### Day 8: March 13, Monday
 
 **Today's Progress**: Implemented the delete function for the Memo Archive web app. Checked issue found on one of the client's e-commerce.
@@ -7,6 +16,7 @@
 **Thoughts:** Webpack is so cool!
 
 **Link to work:** (NDA)
+
 
 ### Day 7: March 12, Sunday
 
@@ -49,6 +59,7 @@
 **Thoughts:** I really struggled creating a wave/curve lines not yet perfect.
 
 **Link to work:** [Simple Donut](http://codepen.io/zaidoxxx/full/ZeeyQO/)
+
 
 ### Day 2: March 7, Tuesday
 
