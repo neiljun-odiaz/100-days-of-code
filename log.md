@@ -1,12 +1,30 @@
 # 100 Days Of Code - Log
 
+### Day 11: March 16, Thursday
+
+**Today's Progress**: Start working on the new 2 pages for company's site. Layout is done. Added basic animation on load and on scroll.
+
+**Thoughts:** 
+
+**Link to work:** (NDA)
+
+
+### Day 10: March 15, Wednesday
+
+**Today's Progress**: Start working on the new 2 pages for company's site. Layout is done. Added basic animation on load and on scroll.
+
+**Thoughts:** 
+
+**Link to work:** (NDA)
+
+
 ### Day 9: March 14, Tuesday
 
 **Today's Progress**: Move memo upload feature to a blade template instead of a Vue component; Created Birthday celebrants page component. Convert company's site from static HTML to a PHP so there will be no repeatitions on some section(header, footer); Created a CSS version of Beemo from Adventure Time.
 
 **Thoughts:** Day's kinda productive.
 
-**Link to work:** (NDA)
+**Link to work:** [Beemo](http://codepen.io/zaidoxxx/full/dvzpgw/)
 
 
 ### Day 8: March 13, Monday
