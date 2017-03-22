@@ -1,5 +1,59 @@
 # 100 Days Of Code - Log
 
+### Day 17: March 22, Wednesday
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 16: March 21, Tuesday
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 15: March 20, Monday
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 14: March 19, Sunday
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 13: March 18, Saturday
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 12: March 17, Friday
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
 ### Day 11: March 16, Thursday
 
 **Today's Progress**: Start working on the new 2 pages for company's site. Layout is done. Added basic animation on load and on scroll.
