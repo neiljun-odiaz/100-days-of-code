@@ -2,20 +2,16 @@
 
 ### Day 17: March 22, Wednesday
 
-**Today's Progress**: 
+**Today's Progress**: Continue working on the company's site - revamp layouts and animations on homepage. Helped teammate on some bugs on the Payroll sytem.
 
-**Thoughts:** 
-
-**Link to work:** 
+**Link to work:** (NDA)
 
 
 ### Day 16: March 21, Tuesday
 
-**Today's Progress**: 
+**Today's Progress**: Fixed bug on past client's website. Updated Payslip blade template. Updated Unit Tests for WTax on Payroll system. Continue working on the company's site - new layout and animations.
 
-**Thoughts:** 
-
-**Link to work:** 
+**Link to work:** (NDA)
 
 
 ### Day 15: March 20, Monday
