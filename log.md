@@ -20,45 +20,37 @@
 
 ### Day 15: March 20, Monday
 
-**Today's Progress**: 
+**Today's Progress**: Created a Settings page on the Payroll System. Researched on Laravel Homestead. Continue on the Totoro CSS at home - Added party hat.
 
-**Thoughts:** 
-
-**Link to work:** 
+**Link to work:** [Totoro](http://codepen.io/zaidoxxx/full/aJqbwQ/)
 
 
 ### Day 14: March 19, Sunday
 
-**Today's Progress**: 
+**Today's Progress**: Start working on a CSS version of Totoro.
 
-**Thoughts:** 
-
-**Link to work:** 
+**Link to work:** [Totoro](http://codepen.io/zaidoxxx/full/aJqbwQ/)
 
 
 ### Day 13: March 18, Saturday
 
-**Today's Progress**: 
+**Today's Progress**: Fixed bug on fetching payments made on loans and cash advances. Format layout on Payslip History.
 
-**Thoughts:** 
-
-**Link to work:** 
+**Link to work:** (NDA)
 
 
 ### Day 12: March 17, Friday
 
-**Today's Progress**: 
+**Today's Progress**: Continue working on the company site. Fixed bug on Payroll System. Continue on the butterfly CSS - Added "flying" animation.
 
-**Thoughts:** 
+**Thoughts:** I'm now fascinated on the *transform* CSS property.
 
-**Link to work:** 
+**Link to work:** [Butterfly](http://codepen.io/zaidoxxx/full/mWqjJe/)
 
 
 ### Day 11: March 16, Thursday
 
-**Today's Progress**: Start working on the new 2 pages for company's site. Layout is done. Added basic animation on load and on scroll.
-
-**Thoughts:** 
+**Today's Progress**: Start working on the new 2 pages for company's site. Layout is done. Added basic animation on load and on scroll. Start working on the flying butterfly using CSS.
 
 **Link to work:** (NDA)
 
