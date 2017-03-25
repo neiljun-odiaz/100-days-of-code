@@ -1,10 +1,20 @@
 # 100 Days Of Code - Log
 
+
+
+### Day 19: March 24, Friday
+
+**Today's Progress**: Continue working on the company's site - Header menu, Services Page & Our Works. Also start working on responsive design. Fixed responsive styling on Ainokii website cart page.
+
+**Link to work:** [Ainokii](http://ainokii.fbdev.net/), [RedLemon Website](http://staging.redlemonph.com/redlemonv3/)
+
+
 ### Day 18: March 23, Thursday
 
 **Today's Progress**: Continue working on the company's site - revamp layouts and animations on homepage. Fixed responsive styling on Ainokii website.
 
 **Link to work:** [Ainokii](http://ainokii.fbdev.net/)
+
 
 ### Day 17: March 22, Wednesday
 
