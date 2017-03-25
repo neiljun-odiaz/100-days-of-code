@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 20: March 25, Saturday
+
+**Today's Progress**: Create a very simple No-Face from Spirited Away - Just for fun
+
+**Link to work:** [No-Face](http://codepen.io/zaidoxxx/full/MpBypP/)
 
 
 ### Day 19: March 24, Friday
