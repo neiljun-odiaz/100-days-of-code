@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+
+### Day 21: March 26, Sunday
+
+**Today's Progress**: Start on the power ranger css
+
+
 ### Day 20: March 25, Saturday
 
 **Today's Progress**: Create a very simple No-Face from Spirited Away - Just for fun
