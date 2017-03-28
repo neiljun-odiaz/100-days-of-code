@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 23: March 28, Tueday
+
+**Today's Progress**: Updated Payroll Sytem Excel sheet reporting - adjust rows for Dept and Divisions. Company site image animation.
+
+**Link to work:** [RedLemon Website](http://staging.redlemonph.com/redlemonv3/)
+
+
+### Day 22: March 27, Monday
+
+**Today's Progress**: Company site mobile responsive on homepage - 375down & 2248px up. Fixed client's site responsive issue on cart page.
+
+**Link to work:** [RedLemon Website](http://staging.redlemonph.com/redlemonv3/)
+
 
 ### Day 21: March 26, Sunday
 
