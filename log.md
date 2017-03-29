@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 23: March 28, Tueday
+### Day 24: March 29, Wednesday
+
+**Today's Progress**: New excel sheet columns added on Payroll system and couple of bug fixes. Continue on company website responsive animation.
+
+**Link to work:** [RedLemon Website](http://staging.redlemonph.com/redlemonv3/)
+
+
+### Day 23: March 28, Tuesday
 
 **Today's Progress**: Updated Payroll Sytem Excel sheet reporting - adjust rows for Dept and Divisions. Company site image animation.
 
