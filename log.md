@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 25: March 30, Thursday
+
+**Today's Progress**: Worked on tablet and small screen responsivesness. Removed smooth scroll effect on mobile devices.
+
+**Link to work:** [RedLemon Website](http://staging.redlemonph.com/redlemonv3/)
+
+
 ### Day 24: March 29, Wednesday
 
 **Today's Progress**: New excel sheet columns added on Payroll system and couple of bug fixes. Continue on company website responsive animation.
