@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+
+### Day 26: March 31, Friday
+
+**Today's Progress**: Fixed bug on Incentives computation; Fix bug on Exception Handler using Sentry; Remove production undertime on Adjustment since it is added automatically from Omnilog.; Fixed bug when prod_undertime is not set (for old records).
+
+**Link to work:** (NDA)
+
+
 ### Day 25: March 30, Thursday
 
 **Today's Progress**: Worked on tablet and small screen responsivesness. Removed smooth scroll effect on mobile devices.
