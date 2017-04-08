@@ -1,10 +1,17 @@
 # 100 Days Of Code - Log
 
-### Day 30: April 5, Wednesday
+### Day 31: April 6, Thursday
 
 **Today's Progress**: Added gulp implemenation for my company's website project. Fixed some GSAP & SVG animation.
 
-**Link to work:** (NDA)
+**Link to work:** [RedLemon Website](http://staging.redlemonph.com/redlemonv3/)
+
+
+### Day 30: April 5, Wednesday
+
+**Today's Progress**: Fixed animation for Mac sizes (> 1600) on company's website. Implement vue-select library on our Payroll System.
+
+**Link to work:** [RedLemon Website](http://staging.redlemonph.com/redlemonv3/)
 
 
 ### Day 29: April 4, Tuesday
