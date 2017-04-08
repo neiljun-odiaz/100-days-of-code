@@ -1,6 +1,25 @@
 # 100 Days Of Code - Log
 
 
+### Day 29: April 3, Tuesday
+
+**Today's Progress**: Continue code refactoring, move some functions/methods to a separate Controller. Added Task allowance.
+
+**Link to work:** (NDA)
+
+
+### Day 28: April 3, Monday
+
+**Today's Progress**: Changed database table field from int to float so Loan amount can accept decimals on my Payroll System. Code refactoring.
+
+**Link to work:** (NDA)
+
+
+### Day 27: April 2, Sunday
+
+**Today's Progress**: Create new Events Model and Contronller for my side project.
+
+
 ### Day 26: March 31, Friday
 
 **Today's Progress**: Fixed bug on Incentives computation; Fix bug on Exception Handler using Sentry; Remove production undertime on Adjustment since it is added automatically from Omnilog.; Fixed bug when prod_undertime is not set (for old records).
