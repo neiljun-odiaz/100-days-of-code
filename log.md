@@ -1,7 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 30: April 5, Wednesday
 
-### Day 29: April 3, Tuesday
+**Today's Progress**: Added gulp implemenation for my company's website project. Fixed some GSAP & SVG animation.
+
+**Link to work:** (NDA)
+
+
+### Day 29: April 4, Tuesday
 
 **Today's Progress**: Continue code refactoring, move some functions/methods to a separate Controller. Added Task allowance.
 
