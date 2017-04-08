@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+
+### Day 32: April 7, Saturday
+
+**Today's Progress**: Installed Visual Studio .NET for C# WPF applications. Researched on how to detect, read & wrtite NFC cards
+
+
 ### Day 32: April 7, Friday
 
 **Today's Progress**: Start workin on multiple fields for Allowances on Payroll System. Forked company website git for another website; updated color schemes and contents; Migrated to live.
